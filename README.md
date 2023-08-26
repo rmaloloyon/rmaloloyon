@@ -1,16 +1,29 @@
-# Welcome to my Github Profile 👋
+# Hello, I'm Ricardo Maloloy-on 👋
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmaloloyon&show_icons=true&theme=dark&count_private=true)
 
-<!--
-**rmaloloyon/rmaloloyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Site Reliability Engineer | Open Source Enthusiast | Coffee Lover
 
-Here are some ideas to get you started:
+## 🌱 Profile Overview
+Welcome to my GitHub profile! I'm passionate about creating clean and efficient code. You'll find a mix of personal projects and open-source contributions here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Bash, Python
+- CI/CD, GIT, Infrastructure as Code(Terraform)
+- Docker, Kubernetes
+
+## 🔥 Top Projects
+- [Project 1](link): Brief description here.
+- [Project 2](link): Brief description here.
+
+## 📝 Blog
+- [My Tech Blog](link): Tips and tricks for efficient coding.
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/ricardo-maloloy-on-7137a331/)
+- [Twitter](https://twitter.com/rickymaloy)
+- Email: rickymaloy@gmail.com
+
+⚡ Fun Fact: I can solve a Rubik's Cube in under a minute!
+
+
+📝 Licensed under [MIT License](license-link)
