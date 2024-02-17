@@ -1,6 +1,8 @@
 # Hello, I'm Ricardo Maloloy-on 👋
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmaloloyon&show_icons=true&theme=dark&count_private=true)
 
+![Status](https://img.shields.io/static/v1?label=Status&message=Active&color=brightgreen)
+
 Site Reliability Engineer | Open Source Enthusiast | Coffee Lover
 
 ## 🌱 Profile Overview
